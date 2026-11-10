@@ -83,7 +83,7 @@ form {
   color: white;
 }
 
-.output {
+#output {
   background-color: rgba(222, 247, 176, 0.7);
   border-radius: 5px;
   padding: 25px;
@@ -91,13 +91,11 @@ form {
   width: 100%;
   box-sizing: border-box;
   text-align: center;
+  height: 120px;
 }
 
 h2 {
   font-weight: 500;
-}
-h2 strong {
-  font-family: "Schoolbell", cursive;
 }
 
 footer {
