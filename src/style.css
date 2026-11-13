@@ -125,3 +125,13 @@ a {
 a:hover {
   color: #d77308;
 }
+
+#output.outputInvestigating {
+  height: 120px;
+  padding: 25px;
+}
+
+#output.outputAnswer {
+  height: 220px;
+  padding: 25px;
+}
